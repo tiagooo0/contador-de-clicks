@@ -1,6 +1,6 @@
 cont = []
 function Cont() {
-    cont++
+    cont++ 
     console.log(cont)
-    document.getElementById("Contador").innerHTML = cont; 
+    document.getElementById("Contador").innerHTML = cont;
 }
